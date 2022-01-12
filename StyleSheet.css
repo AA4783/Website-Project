@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+
+h1 
+{color: red;}
+
+h2
+{color: white;}
+
+.text {color: darkorange;}
+
+#conclusion {text-align: center;}
+
+.list{font-family: Helvetica, Arial, sans-serif;}
+
+.title{font-style: oblique;}
+
+div {
+    width: 450px;
+    border: 25px solid ghostwhite;
+    padding: 20px;
+    margin: 20px;
+}
+
+div.sticky {
+    position: fixed;
+    top: 40px;
+    right: 200px;
+    width: 600px;
+    border: 0;
+}
+
